@@ -1,6 +1,6 @@
 # Projeto #1 - 3º semestre/2016
 
-Projeto desenvolvido para a disciplina CG1 (Computação Gráfica 1 1) do terceiro semestre do curso de Análise e Desenvolvimento de Sistemas (2016) do Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus São Paulo. 
+Projeto desenvolvido para a disciplina CG1 (Computação Gráfica 1) do terceiro semestre do curso de Análise e Desenvolvimento de Sistemas (2016) do Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus São Paulo. 
 
 
 ## Objetivo
