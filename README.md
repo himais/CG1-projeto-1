@@ -4,7 +4,7 @@ Projeto desenvolvido para a disciplina CG1 (Computação Gráfica 1) do terceiro
 
 
 ## Objetivo
-Eibição de objetos simples com cor e com movimento
+Exibição de objetos simples com cor e com movimento
 
 ## Descrição
 Construir um código simples em OpenGL onde na tela seja desenhado um objeto simples: Triangulo.
